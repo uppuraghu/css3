@@ -1,0 +1,77 @@
+body{
+    background-color: gold;
+}
+.dd{
+    height: 500px;
+    width: 500px;
+    overflow: scroll;
+    border: 100px solid;
+    position: sticky;
+    /* margin-top: 10px; */
+    /* top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px; */
+}
+.cd{
+    border: 3px solid;
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+}
+.cd1{
+    position: relative;
+    height: 200px;
+    width: 250px;
+    top:10px ;
+    left: 10px;
+    right: 100px;
+}
+.cd2{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    bottom: 200px;
+    top: 20px;
+    left: 200px;
+  
+}
+.cd3{
+    position: relative;
+    top: 50px;
+    left: 10px;
+    height: 300px;
+    width: 400px;
+}
+.cd4{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    height: 200px;
+    width: 250px;
+}
+.cd5{
+    position: relative;
+    top: 200px;
+    left: 200px;
+    height: 300px;
+    width: 400px;
+}
+.cd6{
+    position: relative;
+    top: 200px;
+    left: 100px;
+    height: 200px;
+    width: 300px;
+}
+.cd7{
+    position: relative;
+    top: 200px;
+    left: 300px;
+    height: 150px;
+    width: 300px;
+}
+.md{
+    position: fixed;
+    background-color: cadetblue;
+}
